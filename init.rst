@@ -49,4 +49,4 @@ The output should be:
 
 What did we just do? We made a class with a variable called **my_var**. With the
 **__init__** function we overwrote **my_var** with the parameter of class,
-**new_value**
+**new_value**.
