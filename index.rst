@@ -15,4 +15,4 @@ Table of Content
    change-var-methods
    method-parameters
    init
-   expanding
+   extending
