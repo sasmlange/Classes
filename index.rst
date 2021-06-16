@@ -14,4 +14,4 @@ Table of Content
    methods
    change-var-methods
    method-parameters
-   special-methods
+   init

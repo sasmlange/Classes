@@ -1,16 +1,6 @@
-Special Methods
-==========================================
-
-Introduction
---------------
-
-You can call a method. In python there also are methods that get called on a
-certain event. These methods have two underlines (**__**) in front, then comes
-the name of the method. After that come the two underlines again.
-
 \__init__
---------------
-**__int__** is executed when you define an object.
+==========================================
+**__int__** is a special method that is executed when you define an object.
 
 .. code-block:: python
 
@@ -43,7 +33,7 @@ like you would give a method a parameter.
 .. code-block:: python
 
     class My_Class():
-        my_var = ""
+        my_var = "I hope this works"
         def __init__(self, new_value):
             self.my_var = new_value
 
@@ -56,3 +46,7 @@ The output should be:
 .. code-block:: bash
 
     Yay! It worked!
+
+What did we just do? We made a class with a variable called **my_var**. With the
+**__init__** function we overwrote **my_var** with the parameter of class,
+**new_value**
