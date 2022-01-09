@@ -35,7 +35,7 @@ works.
     My_Object.my_method()
 
 
-We just made an object called **My_Object**. Then you excuted a method,
+We just made an object called **My_Object**. Then we executed a method,
 **my_method**
 
 
