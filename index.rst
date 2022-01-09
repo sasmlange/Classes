@@ -5,6 +5,9 @@
 
 Table of Content
 ==========================================
+.. image:: https://readthedocs.org/projects/pyclasses/badge/?version=latest
+:target: https://pyclasses.readthedocs.io/en/latest/?badge=latest
+:alt: Documentation Status
 
 .. toctree::
    :maxdepth: 1
