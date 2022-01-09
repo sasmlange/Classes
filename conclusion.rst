@@ -1,4 +1,4 @@
-Concussion
+Conclusion
 =============
 
 In this tutorial we learned how to make a class, a method, and class variables.
