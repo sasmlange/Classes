@@ -26,7 +26,7 @@ to make the class that receives all the other class functionality.
 We made a new class, **My_Class**. In the parentheses is our class we made earlier,
 **Basic_Class**. Inside **My_Class** we have a command, **pass**. **pass** is
 just a place holder. We use it because we need something indented. We could have
-put any code there like :py:`a = 1`. It could be anything. Now lets check if it
+put any code there like :code:`a = 1`. It could be anything. Now lets check if it
 works.
 
 .. code-block:: python
