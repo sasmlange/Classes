@@ -36,7 +36,7 @@ works.
 
 
 We just made an object called **My_Object**. Then we executed a method,
-**my_method**
+**my_method**.
 
 
 Your code should look like this:
